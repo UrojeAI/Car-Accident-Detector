@@ -24,3 +24,7 @@ An AI -based car accident detection system using YOLO and OpenCV
 
   ## Author
   UrojeAI
+
+  ## Demo output
+  ![Accident Detection Output]
+  (Accident-1784970607.jpg)
