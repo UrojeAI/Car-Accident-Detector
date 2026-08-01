@@ -27,4 +27,4 @@ An AI -based car accident detection system using YOLO and OpenCV
 
   ## Demo output
   ![Accident Detection Output]
-  (Accident_1784970607.jpg)
+  (Accident_1784970671.jpg)
