@@ -2,7 +2,6 @@
 An AI -based car accident detection system using YOLO and OpenCV
 
 #Technologies Used
-- python
 - YOLO
 - OpenCV
 - Computer Vision
@@ -26,5 +25,4 @@ An AI -based car accident detection system using YOLO and OpenCV
   UrojeAI
 
   ## Demo output
-  ![Accident Detection Output]
-  (Accident_1784970671.jpg)
+  ![Accident Detection Output](Accident_1784970671.jpg)
