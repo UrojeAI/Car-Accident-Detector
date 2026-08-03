@@ -9,8 +9,8 @@ An AI -based car accident detection system using YOLO and OpenCV
 ##Features
 - Vehicles detection using YOLO
 - Accident detection
-- Alert sound notificationj
-- GPS and time loggging
+- Alert sound notification
+- GPS and time logging
 - Accident data storage
 
   ## Project Purpose
@@ -26,3 +26,8 @@ An AI -based car accident detection system using YOLO and OpenCV
 
   ## Demo output
   ![Accident Detection Output](Accident_1784970671.jpg)
+
+  ##Demo Video
+  https://youtu.be/BLCJObKW2iQ
+
+  
