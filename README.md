@@ -12,6 +12,7 @@ An AI -based car accident detection system using YOLO and OpenCV
 - Alert sound notification
 - GPS and time logging
 - Accident data storage
+- Demo video inclined
 
   ## Project Purpose
   This project aims to detect possible road accidents using computer vision and provide alerts for quick response.
